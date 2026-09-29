@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+/*.zip
+results/
+figures/
+tables/
+/separability/
+/third_party/
+
+# These small release inputs must be present in a fresh clone.
+!/configs/*.json
+!/data/
+!/data/**
